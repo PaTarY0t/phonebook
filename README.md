@@ -1,4 +1,4 @@
-# 📞 Phonebook Manager
+#  Phonebook Manager
 
 A simple and fully functional **Phonebook web application** built with **PHP, MySQL, HTML, CSS, and Bootstrap**.  
 This app allows users to **add, edit, delete, and search contacts** with optional profile photos. It also includes **pagination**, **form validation**, and a **responsive UI** that works on all devices.
