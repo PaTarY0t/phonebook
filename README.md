@@ -4,6 +4,9 @@ A simple and fully functional **Phonebook web application** built with **PHP, My
 This app allows users to **add, edit, delete, and search contacts** with optional profile photos. It also includes **pagination**, **form validation**, and a **responsive UI** that works on all devices.
 
 ---
+![Image Alt](https://github.com/PaTarY0t/phonebook/blob/7b470e4ae40de054709fea85150eff92a88efe9b/1.png)
+
+![Image Alt](https://github.com/PaTarY0t/phonebook/blob/7b470e4ae40de054709fea85150eff92a88efe9b/2.png)
 
 ## Features
 
