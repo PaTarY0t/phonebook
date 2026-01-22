@@ -1,3 +1,9 @@
+# 🚨security vulnerability🚨
+# I Will Update The Code To Fix The [Sql Injection Vulnerability]
+# Do Not Use This Code On a [Live Web Server]
+
+# Use Only On Localhost
+
 #  Phonebook Manager
 
 A simple and fully functional Phonebook web application built with PHP, MySQL, HTML, CSS, and Bootstrap
